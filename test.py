@@ -20,3 +20,11 @@ car.status()
 
 car.setSpeed(0)
 car.status()
+
+
+Ultrasonic_Snesor = us_snesor()
+
+Color_Sensor = c_sensor()
+
+Aim = aim()
+
